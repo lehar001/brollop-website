@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-netlify-cms",
+  "name": "brollop-website",
   "description": "Example Gatsby, and Netlify CMS project",
-  "version": "1.1.0",
-  "author": "Austin Green",
+  "version": "0.1",
+  "author": "Leo Hard",
   "dependencies": {
     "bulma": "^0.6.0",
     "gatsby": "^1.9.213",
